@@ -167,6 +167,7 @@ module.exports = {
               collapsable: false,
               children: [
                 'ui-design/2',
+                'ui-design/3',
                 'ui-design/1'
               ]
             }
@@ -267,7 +268,7 @@ module.exports = {
               title: '基于typescript重构axios',
               collapsable: false,
               children: [
-                'courses/c-1',
+                // 'courses/c-1',
                 'courses/c-2',
                 'courses/c-3',
                 'courses/c-4',
@@ -277,7 +278,9 @@ module.exports = {
                 'courses/c-8',
                 'courses/c-9',
                 'courses/c-10',
-                'courses/c-11'
+                'courses/c-11',
+                'courses/c-12',
+                'courses/c-13'
               ]
             },
             {
