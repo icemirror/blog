@@ -221,7 +221,9 @@ module.exports = {
             {
               title: 'Npm',
               collapsable: false,
-              children: []
+              children: [
+                'engineering/1'
+              ]
             },
             {
               title: 'Webpack',
@@ -282,7 +284,9 @@ module.exports = {
                 'courses/c-12',
                 'courses/c-13',
                 'courses/c-14',
-                'courses/c-15'
+                'courses/c-15',
+                'courses/c-16',
+                'courses/c-17'
               ]
             },
             {
