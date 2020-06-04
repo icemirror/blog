@@ -286,7 +286,8 @@ module.exports = {
                 'courses/c-14',
                 'courses/c-15',
                 'courses/c-16',
-                'courses/c-17'
+                'courses/c-17',
+                'courses/c-18'
               ]
             },
             {
