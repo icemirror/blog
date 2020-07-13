@@ -71,7 +71,8 @@ module.exports = {
               collapsable: false,
               children: [
                 'basics/service-1',
-                'basics/service-2'
+                'basics/service-2',
+                'basics/service-3'
               ]
             }
           ]
