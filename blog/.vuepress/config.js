@@ -67,12 +67,13 @@ module.exports = {
               ]
             },
             {
-              title: '服务端常识',
+              title: '服务端知识',
               collapsable: false,
               children: [
                 'basics/service-1',
                 'basics/service-2',
-                'basics/service-3'
+                'basics/service-3',
+                'basics/service-4'
               ]
             }
           ]
